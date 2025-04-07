@@ -1,5 +1,7 @@
 pandas
+numpy
 matplotlib
 seaborn
-wordcloud
-plotly.express
+plotyl.express
+sci-kit-learn
+tqdm
